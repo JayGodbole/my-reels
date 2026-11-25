@@ -1,0 +1,15 @@
+{
+  "product_name": "YOUR PRODUCT NAME",
+  "one_liner": "What it does in 1 line. Example: posture pillow that stops neck pain in 7 days",
+  "target": "who it is for. Example: office workers 25-45 with neck pain",
+  "benefits": [
+    "benefit 1. Example: falls asleep faster",
+    "benefit 2. Example: no more morning neck pain",
+    "benefit 3. Example: washable cover"
+  ],
+  "cta": "Tap link in bio to get 20% off today",
+  "niche": "problem_fix",
+  "voice": "en-US-AriaNeural",
+  "pexels_query": "office neck pain woman",
+  "hashtags": ["reels", "lifehacks", "musthave"]
+}
